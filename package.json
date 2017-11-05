@@ -1,0 +1,40 @@
+{
+  "name": "hsapi",
+  "version": "0.1.0",
+  "description": "base nodejs develop framework",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "koa",
+    "jwt",
+    "mongodb"
+  ],
+  "dependencies": {
+    "crawler": "^1.0.5",
+    "crypto": "",
+    "jsonwebtoken": "^7.4.2",
+    "koa": "^2.2.0",
+    "koa-body": "^2.3.0",
+    "koa-bodyparser": "^4.2.0",
+    "koa-json-error": "^3.1.2",
+    "koa-jwt": "^3.2.2",
+    "koa-onerror": "^3.1.0",
+    "koa-router": "^7.2.1",
+    "koa-unless": "^1.0.7",
+    "mongodb": "^2.2.31",
+    "node-coolq": "^3.0.2",
+    "node-schedule": "^1.2.4",
+    "request": "^2.81.0",
+    "selenium-webdriver": "^3.5.0",
+    "top": "^0.2.3",
+    "underscore": "^1.8.3"
+  },
+  "author": "1307814956@qq.com",
+  "license": "ISC"
+}
